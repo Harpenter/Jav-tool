@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         Jav工具库
 // @namespace    http://tampermonkey.net/
-// @version      7.0.16
-// @description  集成本地Emby播放/库存同步、多源磁链及封面下载、演员数据抓取与别名管理、浏览历史追踪及AI标题翻译的JavDB全能增强助手。v7.0.16: 列表页新增胶囊样式演员信息悬浮窗，优化UI对齐与显示逻辑。
+// @version      7.0.2
+// @description  集成本地Emby播放/库存同步、多源磁链及封面下载、演员数据抓取与别名管理、浏览历史追踪及AI标题翻译的JavDB全能增强助手。v7.0.2: 修复脚本加载时无法自动备份、年龄弹窗保存失败问题，配置GitHub自动更新。
 // @author       Harpenter
+// @homepageURL  https://github.com/Harpenter/Jav-tool
+// @updateURL    https://raw.githubusercontent.com/Harpenter/Jav-tool/main/Jav工具库-7.0.16.user.js
+// @downloadURL  https://raw.githubusercontent.com/Harpenter/Jav-tool/main/Jav工具库-7.0.16.user.js
 // @match        https://javdb.com/v/*
 // @match        https://javdb.com/search*
 // @match        https://javdb.com/tags*
